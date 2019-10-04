@@ -1,1 +1,1 @@
-yum install nss_wrapper
+sudo yum install nss_wrapper
